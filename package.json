@@ -1,0 +1,22 @@
+{
+  "name": "node-mi-flora",
+  "version": "0.1.0",
+  "description": "Node package for xiaomi mi flora plant sensor",
+  "main": "index.js",
+  "keywords": [
+    "xiaomi",
+    "mi",
+    "flora",
+    "node"
+  ],
+  "author": "Ricardo Mendes <ricardo.mendes@ua.pt>",
+  "license": "MIT",
+  "dependencies": {
+    "merge": "^1.2.0",
+    "mqtt": "^2.6.2",
+    "noble": "^1.7.0"
+  },
+  "engines": {
+    "node": ">=6.9"
+  }
+}
